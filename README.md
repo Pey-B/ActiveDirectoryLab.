@@ -55,7 +55,7 @@ This project demonstrates how to deploy and configure an **Active Directory (AD)
 ### 5. Created Organizational Unit (OU) and Added Admin User
 ![Created OU](ActiveDirectoryLab/screenshots/created_OU_in_AD_and_added_user_to_admin.png.png)
 
-### 6. Installed DHCP Role
+### 6. Installed DHCP
 ![Installed DHCP](ActiveDirectoryLab/screenshots/installed_DHCP.png.png)
 
 ### 7. Configured IPv4 Scope in DHCP
