@@ -18,7 +18,7 @@
 ## 🧱 Overview
 
 **Purpose:**  
-This project demonstrates how to deploy and configure an **Active Directory Domain Services (AD DS)** environment from scratch using **VirtualBox**, simulating a small business network. It includes a domain controller, DHCP/DNS configuration, and a Windows 10 client joined to the domain.
+This project demonstrates how to deploy and configure an **Active Directory (AD)** environment from scratch using **VirtualBox**, simulating a small business network. It includes a domain controller, DHCP/DNS configuration, and a Windows 10 client joined to the domain.
 
 **Technologies Used:**  
 - Oracle VirtualBox  
@@ -74,8 +74,8 @@ This project demonstrates how to deploy and configure an **Active Directory Doma
 
 ## 🧠 Learning Objectives
 
-- Deploy and configure **Active Directory Domain Services (AD DS)**  
-- Set up **DHCP** and **DNS** integration with AD  
+- Deploy and configure **Active Directory (AD)**  
+- Set up **DHCP** and **DNS** 
 - Automate **user creation** using PowerShell  
 - Join Windows clients to a domain  
 - Understand **network segmentation** using NAT + Internal adapters in VirtualBox  
